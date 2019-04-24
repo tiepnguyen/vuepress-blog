@@ -3,7 +3,7 @@ backend:
   branch: master
 publish_mode: editorial_workflow
 media_folder: 'posts/.vuepress/public/uploads'
-public_forder: '/uploads'
+public_folder: '/uploads'
 collections:
   - name: 'blog' # Used in routes, e.g., /admin/collections/blog
     label: 'Blog' # Used in the UI
