@@ -7,7 +7,6 @@ module.exports = {
     logo: '/img/logo.png',
     repo: 'https://github.com/tiepnguyen/vuepress-blog',
     repoLabel: 'Repo',
-    search: false,
     nav: [{ text: 'Facebook', link: 'https://facebook.com/tiepnguyen' }]
   }
 }
