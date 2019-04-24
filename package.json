@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev posts",
+    "build": "vuepress build posts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiep Nguyen",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.47",
+    "vuepress-plugin-clean-urls": "^1.0.3"
+  },
+  "dependencies": {
+    "date-fns": "^1.30.1"
+  }
+}
