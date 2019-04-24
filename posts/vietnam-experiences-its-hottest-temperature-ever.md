@@ -7,7 +7,7 @@ caption: >-
 time: 2019-04-24T09:02:38.297Z
 cover: /posts/.vuepress/public/uploads/nangnong.jpg
 ---
-![A woman and her daughter ride a motorbike on the Truong Tien Bridge in the central province of Thua Thien Hue, April 20, 2019. Photo by VnExpress/Vo Thanh](/posts/.vuepress/public/uploads/nangnong.jpg "A woman and her daughter ride a motorbike on the Truong Tien Bridge in the central province of Thua Thien Hue, April 20, 2019. Photo by VnExpress/Vo Thanh")
+![A woman and her daughter ride a motorbike on the Truong Tien Bridge in the central province of Thua Thien Hue, April 20, 2019. Photo by VnExpress/Vo Thanh](/uploads/nangnong.jpg "A woman and her daughter ride a motorbike on the Truong Tien Bridge in the central province of Thua Thien Hue, April 20, 2019. Photo by VnExpress/Vo Thanh")
 
 Vietnam broke its national high temperature record last Saturday as the mercury hit 43.4 degrees Celsius in Ha Tinh Province.
 
