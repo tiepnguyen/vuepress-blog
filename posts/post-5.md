@@ -1,4 +1,5 @@
 ---
+title: You Can Now Bother Underpaid Kohl's Workers With Your Amazon Regrets
 time: 2019-04-24 11:20:00
 cover: https://i.kinja-img.com/gawker-media/image/upload/s--BRa4WWok--/c_scale,dpr_2.0,f_auto,fl_progressive,q_80,w_800/njbitggbegn6za41j5w7.jpg
 caption: Kohl’s announced this morning that it will start accepting Amazon returns at all 1,150 of its stores starting in July. There’s no extra charge for the service.

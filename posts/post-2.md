@@ -1,4 +1,5 @@
 ---
+title: This Pokémon Let's Go Deal Is the Very Best, Like No Deal Ever Was
 time: 2019-04-23 11:00:00
 cover: https://i.kinja-img.com/gawker-media/image/upload/s--unFWGab6--/c_scale,dpr_2.0,f_auto,fl_progressive,q_80,w_800/tiuvtwttal5mk8drrgeu.jpg
 caption: If you haven’t picked up the nostalgia bomb that is Pokémon Let’s Go Eevee/Pikachu, you can grab either one for \$45 today on Amazon, a new all-time low price.

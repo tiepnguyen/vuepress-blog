@@ -1,4 +1,5 @@
 ---
+title: Apple offers next-day repairs for faulty MacBook keyboards
 time: 2019-04-23 10:20:00
 cover: https://i.kinja-img.com/gawker-media/image/upload/s--MKTKTPgK--/c_scale,dpr_2.0,f_auto,fl_progressive,q_80,w_800/jo2tmqduk1zguxapk6d2.jpg
 caption: After years of user complaints, it looks like Apple is starting to prioritize repairs for busted MacBook and MacBook Pro keyboards. According to a memo obtained by Mac Rumors, Apple has started to stock its retail locations with necessary parts so Genius Bar technicians...

@@ -1,4 +1,5 @@
 ---
+title: One in Five U.S. Kids Don't Drink Water—but They Do Drink a Lot of Sugar
 time: 2019-04-23 16:20:30
 cover: https://i.kinja-img.com/gawker-media/image/upload/s--5c-o_2vP--/c_scale,dpr_2.0,f_auto,fl_progressive,q_80,w_800/sjyhx4cvsonausi0qasv.jpg
 caption: That kids (and adults) in America love their sugary drinks is no secret. But a new study out this Monday suggests that sodas and sports drinks are fully replacing water for some kids...

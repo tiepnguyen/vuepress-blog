@@ -1,4 +1,5 @@
 ---
+title: Why You Should Install a Download Manager
 time: 2019-04-24 18:30:00
 cover: https://i.kinja-img.com/gawker-media/image/upload/s--ZrQ6tANa--/c_scale,dpr_2.0,f_auto,fl_progressive,q_80,w_800/txzki1qzebtnf8tducme.jpg
 caption: While streaming services have cut down on the amount of downloading most of us have to do nowadays, and built-in browser downloaders can do the job for the casual web surfer, if you’re transferring a serious amount of files on a regular basis then a dedicated download manager is worth a look.

@@ -1,4 +1,5 @@
 ---
+title: The Gentle Side of Twitch
 time: 2019-04-24 10:20:00
 cover: https://i.kinja-img.com/gawker-media/image/upload/s--fpgLO3a_--/c_scale,f_auto,fl_progressive,q_80,w_1600/pa8kblkvwlc7hjvoo8oa.jpg
 caption: “Hi! I see you, but I’m focused on the reading right now. I can chat during the next break!” This message popped up on the stream from Ryan Blake Hall, better known as Storyteller Mars on Twitch.
