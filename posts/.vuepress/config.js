@@ -5,7 +5,9 @@ module.exports = {
   plugins: ['clean-urls'],
   themeConfig: {
     logo: '/img/logo.png',
+    repo: 'https://github.com/tiepnguyen/vuepress-blog',
+    repoLabel: 'Repo',
     search: false,
-    nav: [{ text: 'About', link: '/about/' }]
+    nav: [{ text: 'Facebook', link: 'https://facebook.com/tiepnguyen' }]
   }
 }
