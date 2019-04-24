@@ -62,3 +62,5 @@ After being abandoned for a long time, this villa on Tran Hung Dao Street has go
 ![](/uploads/10-2760-1555988505.jpg)
 
 There is plenty of natural light inside. Akin to the previous coffee shops, Violet on the Fourth Day is also generous with its options and the average price of an item is VND30,000 ($1.3).
+
+Source: [VnExpress.net](https://e.vnexpress.net/news/travel/food/5-cafes-that-add-to-your-enjoyment-of-da-lat-3913480.html)
