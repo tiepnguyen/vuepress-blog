@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 5 cafes of Da Lat
+title: 5 cafes that add to your enjoyment of Da Lat
 caption: >-
   With their elaborately designed interiors, they offer more than just
   beverages.
